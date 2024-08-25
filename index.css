@@ -1,0 +1,31 @@
+#one{
+        font-family: "Matemasie", sans-serif;
+        font-weight: 1200;
+        font-size:50px;
+        font-style: normal
+    }
+#menusection{
+    img{
+        height:80px
+    }
+}
+.menu-icon{
+    margin-right:30px
+}
+
+#two{
+    font-family: "Bodoni Moda SC", serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(206, 67, 8);
+}
+
+.moviephoto{
+    width:162px;
+}
+
+.poster{
+    width:162px;
+    height:162px;
+}
+

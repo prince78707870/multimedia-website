@@ -1,0 +1,12 @@
+#one{
+        font-size:50px;
+        font-family: "Matemasie", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+#two{
+    img{
+        width:80px;
+        margin-right:30px;
+    }
+}
